@@ -1,0 +1,36 @@
+Subject: Java Backend Developer (4 Years) – Application for {{company}}
+
+Dear {{hrName}},
+
+I am writing to express my interest in Java Developer/Senior Java Developer/Backend Engineer/Spring Boot Developer/Java Microservices Developer opportunities at {{company}}.
+I have 4 years of experience in backend development, primarily working with Java, Spring Boot, microservices, REST/GraphQL APIs, and SQL, with hands-on experience in the digital banking and payments domain.
+
+A few highlights of my experience include:
+
+- Developing and integrating backend services with banking and third-party payment APIs using Java and Spring Boot.
+- Working with AWS services such as SQS, SES, and IAM, along with Docker and Kubernetes for cloud-based application deployments.
+- Building scalable RESTful microservices, handling database operations, and implementing reliable backend integrations.
+
+Please follow more details about my profession/preference.
+
+ * Full Name : {{senderName}}
+ * Email ID : {{senderEmail}}
+ * Contact Number : {{senderContact}}
+ * Total Experience : 4 years
+ * Relevant Java + SpringBoot + MS + RESTful/GraphQL APIs Experience : 4 years
+ * Current/Last Company : <COMPANY_NAME>
+ * Notice Period : Immediate Joiner
+ * Current Location : <CURRENT_LOCATION>
+ * Preferred Location : <LOCATION_PREFERRENCE>
+
+I am confident that my technical background, problem-solving abilities, and experience in cloud-native application development would enable me to add immediate value to your team.
+Please find my resume attached for your review.
+
+I would welcome the opportunity to discuss how my skills and experience align with your current needs.
+Thank you for your time and consideration, and I look forward to hearing from you.
+
+Kind regards,
+{{senderName}}
+{{senderContact}}
+{{senderEmail}}
+{{senderLinkedIn}}
